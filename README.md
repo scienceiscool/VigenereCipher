@@ -4,11 +4,11 @@ Author Name: Kathy Saad<br>
 Project Title: Assignment 2 - Vigenere Cipher<br>
 Project Status: Working<br>
 External Resources:<br>
-	Class notes<br>
-	https://www.python.org/<br>
-	http://inventwithpython.com/hacking/chapter19.html<br>
-	http://rosettacode.org/wiki/Vigen%C3%A8re_cipher#Python<br>
-	http://web.cs.mun.ca/~michael/c/ascii-table.html
+- Class notes<br>
+- https://www.python.org/<br>
+- http://inventwithpython.com/hacking/chapter19.html<br>
+- http://rosettacode.org/wiki/Vigen%C3%A8re_cipher#Python<br>
+- http://web.cs.mun.ca/~michael/c/ascii-table.html
 
 *******************************************************************************************************************************************
 
