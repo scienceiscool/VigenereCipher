@@ -35,12 +35,12 @@ Write a program named vigeneredecipher.py that takes a file name and a code word
 
 __Run:__
 
-	_CIPHER_
+	[CIPHER]
 	python3.4 vigenerecipher.py message.txt lime
 	cat message-cipher.txt
 	--> Epq iloxi sie plvpio
 
-	_DECIPHER_
+	[DECIPHER]
 	python3.4 vigeneredecipher.py message.txt lime
 	cat message-clear.txt
 	--> The eagle has landed
