@@ -33,7 +33,7 @@ Write a program named vigeneredecipher.py that takes a file name and a code word
 
 *******************************************************************************************************************************************
 
-__Run:__
+__Sample Run:__
 
 	[CIPHER]
 	$python3.4 vigenerecipher.py message.txt lime
